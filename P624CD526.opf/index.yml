@@ -1,0 +1,11 @@
+id: 5de9b1e8bc7146df80ad2edb2586171a
+annotation_type: index
+revision: '00001'
+annotations:
+  010bd6bf74f145c6a87c60cdf4b09c0a:
+    parts: {}
+    span:
+    - vol: 24
+      start: 0
+      end: 2606
+    work_id: D1949
