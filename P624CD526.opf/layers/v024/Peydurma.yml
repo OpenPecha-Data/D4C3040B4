@@ -4,7 +4,8 @@ revision: '00001'
 annotations:
   d09fb2c95e044d578e983eb5e1b32a23:
     span:
-      start: 2168
-      end: 2168
+      start: 2021
+      end: 2021
+      fail_update: both
 local_ids:
   d09fb2c95e044d578e983eb5e1b32a23: 200000
