@@ -1,0 +1,22 @@
+id: D4C3040B4
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T06:59:50+00:00'
+last_modified: '2022-05-26T10:48:55.387653+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    aaf0:
+      image_group_id: I1PD95869
+      title: དབྱུག་པ་གཤིན་རྗེ་གཤེད་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་སྒྲུབ་ཐབས།
+      total_pages: 1586
+      order: 24
+      base_file: aaf0.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
